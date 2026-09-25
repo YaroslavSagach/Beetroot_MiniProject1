@@ -6,3 +6,11 @@ A simple ESP32 project using a photoresistor to detect light. When it gets dark,
 <p>
   <img src="images/project1_1.jpeg" width="500">
 </p>
+
+<p>
+EMA filtration with alpha = 0.2 :
+</p>
+
+<p>
+  <img src="images/project1_1_filter.png" width="700">
+</p>
